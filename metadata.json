@@ -1,0 +1,6 @@
+{
+  "name": "Zeenat Couture — Admin Panel & Luxury Pakistani Fashion",
+  "description": "Premium Pakistani women's clothing store management system with real-time product sync, catalog management, orders, invoices, categories, and customer shopfront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
